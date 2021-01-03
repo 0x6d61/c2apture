@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    imgkit (1.6.2)
+    rexml (3.2.4)
+    rouge (3.26.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  imgkit
+  rexml
+  rouge
+
+BUNDLED WITH
+   2.2.3
